@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ayşegül Hilal Seyhan 👋
 
-<!--
-**aysegulhilalseyhan/aysegulhilalseyhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Industrial Engineering graduate and a Computer Engineering student.  
+I am interested in improving systems, analyzing data, and building useful software solutions.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Industrial Engineering graduate
+- 💻 Computer Engineering student
+- 📍 Based in Türkiye
+- 🌱 Currently learning and improving myself in software development and engineering applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I’m Interested In
+- Python
+- C / C++
+- SQL
+- Data Analysis
+- Machine Learning
+- Computer Networks
+- Software Development
+- Process Improvement
+
+## Goals
+I want to develop projects that combine engineering, data, and software to solve real-world problems.
